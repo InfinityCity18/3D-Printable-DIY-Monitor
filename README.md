@@ -8,6 +8,9 @@
 > You may have to adjust the box and frame for your display and board to fit properly
 > and you need 4 metal screws for plate assembly which are NOT in the models.
 
+![Front of the monitor](/images/monitor1.jpg)
+![Back of the monitor, backlight can be seen](/images/monitor2.jpg)
+
 A computer monitor that attaches to your desk, which you can 3d print yourself!
 Mine display is about 16", but make sure to adjust the model to your display, board and desk sizes.
 
