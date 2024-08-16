@@ -1,5 +1,7 @@
 # 3D-Printable-DIY-Monitor
 
+https://www.thingiverse.com/thing:6733038
+
 > [!WARNING]
 > The STL in preview may look broken, but in slicers (eg. PrusaSlicer), they look fine;
 > If you still encounter problems, start an issue or try to edit the blend file
